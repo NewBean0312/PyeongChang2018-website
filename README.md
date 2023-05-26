@@ -1,1 +1,4 @@
-# PyeongChang2018WebSite
+# 목적 : 평창 동계 올림픽 웹 사이트
+
+## 개요 및 종목 소개
+## Contact 삽입
